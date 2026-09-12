@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import SectionTitle from "../components/SectionTitle";
 import Button from "../components/Button";
-import profileImage from "../assets/images/profile.png";
+import profileImage from "../assets/images/Profile.png";
 
 function About() {
   return (
