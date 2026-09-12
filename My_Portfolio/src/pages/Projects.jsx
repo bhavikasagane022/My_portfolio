@@ -52,7 +52,7 @@ function Projects() {
         "A responsive e-commerce website built with React.js, featuring product listings, navigation, and a user-friendly interface for an online shopping experience..",
       technologies: ["React", "HTML", "CSS", "JAVASCRIPT"],
       github: "https://github.com/bhavikasagane022/ShopKart.git",
-      live: "https://github.com/",
+      live: "https://shop-kart-lime-ten.vercel.app/",
     }
   ];
 
